@@ -1,0 +1,299 @@
+[{
+        "title": "Beef Burger",
+        "price": "100000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726330181/samples/ecommerce/beefburger_b9x04j.png",
+        "categoryId": 1
+    },
+    {
+        "title": "Beef Burger jumbo",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726330181/samples/ecommerce/beefburger2_r7x0rl.png",
+        "categoryId": 1
+    },
+    {
+        "title": "Chicken burger",
+        "price": "125000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726330184/samples/ecommerce/chickenburger_jhuchc.png",
+        "categoryId": 1
+    }, {
+        "title": "sandwich",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726330187/samples/ecommerce/sandwich_epexpz.png",
+        "categoryId": 1
+    }, {
+        "title": "fries",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726330185/samples/ecommerce/fries_sgznfh.png",
+        "categoryId": 1
+    }, {
+        "title": "Beef Burger jumbo package",
+        "price": "350000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/samples/ecommerce/side-background_hpao44.png",
+        "categoryId": 1
+    }, {
+        "title": "Aria Drake chake",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337506/samples/ecommerce/c1_jihcct.png",
+        "categoryId": 2
+
+    }, {
+        "title": "Jasper Stone chake",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337507/samples/ecommerce/c2_t2ywul.png",
+        "categoryId": 2
+    }, {
+        "title": "Litle orion choho",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337509/samples/ecommerce/c3_rgyvcn.png",
+        "categoryId": 2
+    },
+    {
+        "title": "Luna Nightingale",
+        "price": "100000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337511/samples/ecommerce/c4_qlkpq3.png",
+        "categoryId": 2
+    },
+    {
+        "title": "Jasper Stone chake",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337512/samples/ecommerce/c5_dnfoyk.png",
+        "categoryId": 2
+    }, {
+        "title": "Orion choho",
+        "price": "400000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337514/samples/ecommerce/c6_dqgnzf.png",
+        "categoryId": 2
+    }, {
+        "title": "Litle orion choho",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337516/samples/ecommerce/c8_hkk30i.png",
+        "categoryId": 2
+    }, {
+        "title": "Willow Phoenix",
+        "price": "450000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337515/samples/ecommerce/c7_ggsghj.png",
+        "categoryId": 2
+    }, {
+        "title": "Stone chake",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338032/samples/ecommerce/c12_nx13un.png",
+        "categoryId": 2
+    }, {
+        "title": "Nova Storm",
+        "price": "180000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338031/samples/ecommerce/c10_favmkx.png",
+        "categoryId": 2
+    }, {
+        "title": "Nova Storm pink",
+        "price": "200000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338031/samples/ecommerce/c11_vjtfkx.png",
+        "categoryId": 2
+    }, {
+        "title": "Flat White",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337811/samples/ecommerce/m1_yj6o5a.png",
+        "categoryId": 3
+    }, {
+        "title": "Cappuccino",
+        "price": "60000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337824/samples/ecommerce/m2_qut3mz.png",
+        "categoryId": 3
+    }, {
+        "title": "Mocha",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337825/samples/ecommerce/m3_pnsazf.png",
+        "categoryId": 3
+    },
+    {
+        "title": "Irish Coffee",
+        "price": "70000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337827/samples/ecommerce/m4_vmu56u.png",
+        "categoryId": 3
+    },
+    {
+        "title": "The Grind House",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337828/samples/ecommerce/m5_vtgoky.png",
+        "categoryId": 3
+    }, {
+        "title": "Espresso Emporium",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337832/samples/ecommerce/m8_rjrchl.png",
+        "categoryId": 3
+    }, {
+        "title": "Bean Boulevard",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337832/samples/ecommerce/m8_rjrchl.png",
+        "categoryId": 3
+    },
+    {
+        "title": "Steaming Serenity",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726337832/samples/ecommerce/m8_rjrchl.png",
+        "categoryId": 3
+    },
+    {
+        "title": "Steaming Serenity",
+        "price": "50000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338261/samples/ecommerce/background-img_ca4nk4.png",
+        "categoryId": 4
+    },
+
+    {
+        "title": "Chicken chow",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338268/samples/ecommerce/chicken_chow_yzqagv.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Chicken leg",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338270/samples/ecommerce/chicken_leg_nnpssy.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Chicken tomato",
+        "price": "180000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338271/samples/ecommerce/chicken_mgdakm.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Cruspy fried",
+        "price": "140000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338273/samples/ecommerce/crispy_fried_bxyivj.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Black fried",
+        "price": "170000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338274/samples/ecommerce/fasr_food_c11zho.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Garlic Fried",
+        "price": "180000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338277/samples/ecommerce/Garlic_Fried_x68iks.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Grilled chicken",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338280/samples/ecommerce/grilled_chicken_rcfypc.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Grilled beef steak",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338281/samples/ecommerce/Grilled_beef_steak_gbwaat.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Grilled pork ribs",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338283/samples/ecommerce/Grilled_pork_ribs_x2g8uw.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Lyulya kebab",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338286/samples/ecommerce/Lyulya_kebab_onaaq5.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Fireside Grill",
+        "price": "250000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338287/samples/ecommerce/m1_bkmdhq.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Veggie Delight",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338288/samples/ecommerce/m2_gjyzq6.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Pasta Palace",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338290/samples/ecommerce/m3_dd66el.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Ocean's Catch",
+        "price": "160000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338291/samples/ecommerce/m4_eu6g15.png",
+        "categoryId": 4
+    },
+    {
+        "title": "BBQ Junction",
+        "price": "180000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338294/samples/ecommerce/m5_y6msuk.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Mangalorean Chicken",
+        "price": "160000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338295/samples/ecommerce/Mangalorean_Chicken_dd10xm.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Tasty Tacos chicken",
+        "price": "150000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338297/samples/ecommerce/menu-img_g0e38i.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Noodles Delight",
+        "price": "120000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338298/samples/ecommerce/noodles_v1m8w2.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Noodles pasta",
+        "price": "120000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338300/samples/ecommerce/pasta_ek4dxg.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Pineapple Fried Rice",
+        "price": "140000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338302/samples/ecommerce/Pineapple_Fried_Rice_vtixu5.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Pizzeria Pronto",
+        "price": "120000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338303/samples/ecommerce/pizza_brmg5x.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Rice Chicken",
+        "price": "130000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338304/samples/ecommerce/rice_n4xacn.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Salad",
+        "price": "130000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338307/samples/ecommerce/salad_tothjf.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Shusi japanese",
+        "price": "130000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338310/samples/ecommerce/sushi__japanese_jy4xqt.png",
+        "categoryId": 4
+    },
+    {
+        "title": "Spice Garden",
+        "price": "170000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726338309/samples/ecommerce/steaks_vagitable_o5ghr5.png",
+        "categoryId": 4
+    },
+    {
+        "title": "White fish",
+        "price": "140000",
+        "imgUrl": "https://res.cloudinary.com/dwk7bi3m9/image/upload/v1726339237/samples/ecommerce/white_fish_gw5biu.png",
+        "categoryId": 4
+    }
+
+]
